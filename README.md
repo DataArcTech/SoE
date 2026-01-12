@@ -15,7 +15,7 @@ Lionel Ni<sup>2,3</sup>, Jian Guo<sup>1,2</sup>
 <b>EACL 2026 Findings</b>
 
 [![arXiv](https://img.shields.io/badge/ArXiv-Prepint-red)](https://arxiv.org/abs/2601.05635)
-[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/DataArcTech/SoE/LICENSE)
+[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/DataArcTech/SoE/blob/master/LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-310/)
 
 _If you have any question, feel free to contact [📧](mailto:stein.h.liu@gmail.com)._
